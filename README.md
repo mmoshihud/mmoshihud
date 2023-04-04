@@ -1,8 +1,8 @@
-## Hi there 👋, I'm [Munshi Moshihud Hossain](https://github.com/mmoshihud)
+# Hi there 👋, I'm [Munshi Moshihud Hossain](https://github.com/mmoshihud)
 
-Hi! I am Munshi Moshihud Hossain, I am a full-stack web developer with expertise in PHP and Javascript. I have experience building interactive front-ends and dynamic web pages using a combination of HTML, CSS, and JavaScript, as well as utilizing React and Laravel frameworks. Additionally, I am skilled in building and integrating APIs using Laravel for the backend and React for the frontend. Ensuring accuracy and honesty in presenting one's skills and experience is crucial in the professional world.
+### Hi! I am Munshi Moshihud Hossain, I am a full-stack web developer with expertise in PHP and Javascript. I have experience building interactive front-ends and dynamic web pages using a combination of HTML, CSS, and JavaScript, as well as utilizing React and Laravel frameworks. Additionally, I am skilled in building and integrating APIs using Laravel for the backend and React for the frontend. Ensuring accuracy and honesty in presenting one's skills and experience is crucial in the professional world.
 
-Education/Skills:
+**Education/Skills:**
 
 - Graduating from American International University in 2022 🎓
 - Php
@@ -13,7 +13,7 @@ Education/Skills:
 - RDBMS, MySQL, SQLServer
 - Frameworks: Laravel, React
 
-Language and Tools:
+**Language and Tools:**
 
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50" sizes="50"></a>
@@ -26,7 +26,7 @@ Language and Tools:
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" sizes="50"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="50" sizes="50"></a>
 
-Connect with me:
+**Connect with me:**
 
 <a href="https://www.facebook.com/mmoshihud.hossain"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="git" width="50" sizes="50"></a>
 
