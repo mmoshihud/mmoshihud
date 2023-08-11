@@ -1,8 +1,6 @@
 # Hi there 👋, I'm [Munshi Moshihud Hossain](https://github.com/mmoshihud?tab=repositories)
 
-**Hello there! I'm Munshi Moshihud Hossain, a highly adept full-stack web developer specializing in the dynamic realm of JavaScript. With a solid foundation in crafting captivating front-end experiences, I bring to the table a wealth of expertise in seamlessly combining HTML, CSS, and JavaScript. My proficiency extends to harnessing the power of cutting-edge technologies such as React and Next.js to weave interactive and engaging web pages.
-Delving into the backend realm, I excel in architecting robust APIs, leveraging the prowess of Express and Django. What sets me apart is my prowess in integrating diverse databases, be it the flexibility of MongoDB or the structured efficiency of MySQL. This allows me to create a strong foundation for data management, enriching the user experience.
-My professional ethos is rooted in unwavering commitment to accuracy and transparency, virtues that permeate every facet of my work. I'm thrilled at the prospect of contributing my skills to a dynamic team, and I'm poised to make a meaningful impact in the ever-evolving landscape of web development.**
+**A highly adept full-stack web developer specializing in the dynamic realm of JavaScript. With a solid foundation in crafting captivating front-end experiences, I bring to the table a wealth of expertise in seamlessly combining HTML, CSS, and JavaScript. My proficiency extends to harnessing the power of cutting-edge technologies such as React and Next.js to weave interactive and engaging web pages. Delving into the backend realm, I excel in architecting robust APIs, leveraging the prowess of Express and Django. What sets me apart is my prowess in integrating diverse databases, be it the flexibility of MongoDB or the structured efficiency of MySQL. This allows me to create a strong foundation for data management, enriching the user experience. My professional ethos is rooted in unwavering commitment to accuracy and transparency, virtues that permeate every facet of my work. I'm thrilled at the prospect of contributing my skills to a dynamic team, and I'm poised to make a meaningful impact in the ever-evolving landscape of web development.**
 
 **Skills:**
 
@@ -31,7 +29,8 @@ My professional ethos is rooted in unwavering commitment to accuracy and transpa
 
 **Connect with me:**
 
-<a href="https://www.facebook.com/mmoshihud.hossain"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="git" width="50" sizes="50"></a>
+<a href="https://www.linkedin.com/in/munshi-moshihud-hossain"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="55"></a>
+<a href="https://www.facebook.com/mmoshihud.hossain"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="50" sizes="50"></a>
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything
