@@ -1,19 +1,23 @@
 # Hi there 👋, I'm [Munshi Moshihud Hossain](https://github.com/mmoshihud?tab=repositories)
 
-**A highly adept full-stack web developer specializing in the dynamic realm of JavaScript. With a solid foundation in crafting captivating front-end experiences, I bring to the table a wealth of expertise in seamlessly combining HTML, CSS, and JavaScript. My proficiency extends to harnessing the power of cutting-edge technologies such as React and Next.js to weave interactive and engaging web pages. Delving into the backend realm, I excel in architecting robust APIs, leveraging the prowess of Express and Django. What sets me apart is my prowess in integrating diverse databases, be it the flexibility of MongoDB or the structured efficiency of MySQL. This allows me to create a strong foundation for data management, enriching the user experience. My professional ethos is rooted in unwavering commitment to accuracy and transparency, virtues that permeate every facet of my work. I'm thrilled at the prospect of contributing my skills to a dynamic team, and I'm poised to make a meaningful impact in the ever-evolving landscape of web development.**
+**A highly skilled full-stack developer with a primary focus on backend technologies, particularly Django, Python, Elasticsearch, and Redis. My strength lies in creating scalable and efficient backend systems, architecting APIs, and ensuring seamless data management with diverse databases. I'm proficient in building robust, high-performance applications and integrating cutting-edge technologies. While my backend expertise forms the core of my skillset, I also bring a strong command of front-end development, working with HTML, CSS, and JavaScript to deliver captivating user experiences. My front-end toolset includes frameworks like React and Next.js, enabling the creation of dynamic, interactive web pages. My professional approach is defined by a dedication to accuracy, transparency, and high-quality code. I'm excited to contribute to a forward-thinking team and help drive innovation in the ever-evolving field of web development.**
 
 **Skills:**
 
-- React
-- Javascript
+- Django, Python, Elasticsearch, Redis
 - Full Web Application, API, Backend with Django, Frontend with React
-- HTML5, CSS3, React, BootStrap, Tailwind
+- HTML5, CSS3, JavaScript, React, BootStrap, Tailwind
 - RDBMS, MySQL, SQLServer
 - C/C++, C#, Java
-- Frameworks: Next Js, Express
+- Frameworks: Next.js, Express
 
 **Language and Tools:**
 
+<a href="https://www.python.org"><img src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png" width="50" height="50"/></a>
+<a href="https://www.djangoproject.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-django-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175186.png" width="50" height="50"/></a>
+<a href="https://www.elastic.co/elasticsearch"><img src="https://cdn.iconscout.com/icon/free/png-512/free-elastic-logo-icon-download-in-svg-png-gif-file-formats--elasticsearch-company-brand-world-logos-vol-11-pack-icons-283142.png" width="50" height="50"/></a>
+<a href="https://redis.io"><img src="https://cdn4.iconfinder.com/data/icons/redis-2/467/Redis_Logo-512.png" width="50" height="50"/></a>
+<a href="https://docs.celeryq.dev/en/stable/index.html"><img src="https://g2tech.co/content/images/size/w1200/2023/05/python-celery-1.png" width="50" height="50"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50" sizes="50"></a>
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
